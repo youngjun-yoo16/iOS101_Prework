@@ -23,9 +23,9 @@ Some ideas to **improve** the app are:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+Here's a walkthrough of implemented features:
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<img src='assets/iOS101_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## App Brainstorming (Step 4)
 
