@@ -1,8 +1,8 @@
-# Prework - *iOS 101*
+# Prework - *BgChanger*
 
 Submitted by: **Youngjun Yoo**
 
-**Name of your app** is an app that... [TODO] 
+**BgChanger** is an app that alters the background color to a randomly selected hue upon pressing a button.
 
 Time spent: **2** hours spent in total
 
@@ -10,8 +10,16 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- ✅ Users are see a screen with three labels and a button
+- ✅ Tapping the button changes the screen color to a random color
+
+## Ideas to Implement
+
+Some ideas to **improve** the app are:
+
+- Improve the UI by using different fonts/colors/background
+- Feel free to play around with other elements, such as image views, textfields, etc.
+- Implement a way to change the color of the text as well
  
 ## Video Walkthrough
 
@@ -21,9 +29,10 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Being new to Swift, I found great pleasure in constructing the app, thanks to the storyboard that offers an intuitive user interface for development. I plan to incorporate additional functionalities in the near future.
 
 ## License
 
