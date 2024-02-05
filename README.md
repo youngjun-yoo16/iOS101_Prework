@@ -29,6 +29,19 @@ Here's a walkthrough of implemented features:
 
 ## App Brainstorming (Step 4)
 
+- Instagram:
+    - Story highlights
+    - Hashtags
+
+- Discord:
+    - Different communities
+    - Voice and video calls
+
+- Facebook:
+    - News feed
+    - Timeline
+
+I want to create an application designed to assist Purdue students in easily reviewing upcoming campus and club events, including their respective times and locations. The aim is to organize events using tags and present them in a daily list format, offering students a centralized hub for all campus and club-related activities. Additionally, I aim to integrate RSVP features directly into the app to enhance user experience and alleviate the additional workload for clubs.
 
 ## Notes
 
